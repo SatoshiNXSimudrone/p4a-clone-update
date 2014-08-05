@@ -202,7 +202,8 @@ Usage:
 
     - If you want to act as a
       CHAT SERVER 
-      type sh chatCon.sh
+      type  sh chatServerBSD.sh
+        -OR sh chatServerGNU.sh
       you will be prompted to either
       use default port < 4270 >
       or enter a custom port
@@ -212,7 +213,8 @@ Usage:
    OPTION 2:
     - If you want to connect to a 
       Chat Server  
-      type sh chatServer.sh
+      type sh chatCon.sh
+      or   sh chatCon.sh
       you will be prompted to enter
       the IP adress of the Server
       enter it.
@@ -223,11 +225,6 @@ Usage:
       YOU should now be able to chat
       with another fellow user on the same
       network!
-
-
-
-
-
 
 
    Enjoy and remember I am
